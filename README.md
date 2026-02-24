@@ -1,5 +1,5 @@
 # 👩‍💻Maria Eduarda Nascimento
-**'Desenvolvedora Junior'**
+Desenvolvedora Jr
 
 Sou desenvolvedora com foco em sistemas e dados. Tenho direcionado meus estudos principalmente para SQL, Java, fundamentos de arquitetura de sistemas, engenharia de requisitos, segurança da informação e boas práticas de desenvolvimento. Atuei no desenvolvimento de projetos que unem tecnologia e impacto social, como o DeslizApp, uma aplicação voltada para alertas e prevenção de deslizamentos em áreas de risco em Pernambuco, com foco em informação, visualização de dados e apoio à tomada de decisão. Também desenvolvi, com meus colegas, o projeto Terra Viva, que utiliza tecnologia para apoiar a rastreabilidade no uso de agrotóxicos, com atenção à transparência e à organização dos dados. Tenho experiência acadêmica e prática com desenvolvimento web, utilizando HTML, CSS e JavaScript, além de back-end com Java e Spring Boot, integração entre sistemas, versionamento com Git e organização de projetos. Também possuo noções de cloud e deploy, com uso de AWS e ambientes de hospedagem, onde estou dedicando meus estudos.
 
@@ -101,18 +101,14 @@ Sou desenvolvedora com foco em sistemas e dados. Tenho direcionado meus estudos 
 
 <img 
     align="left" 
-    alt="AWS" 
+    alt="AWS"
     title="Amazon Web Services"
     width="30px" 
     style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain.svg"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 </p>
 <br/>
 <br/>
 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardanscmnt&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-  
+
