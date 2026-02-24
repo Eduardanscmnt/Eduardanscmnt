@@ -4,6 +4,23 @@
 
 Me chamo Maria Eduarda, Sou desenvolvedora em formação, com foco em sistemas e dados. Tenho direcionado meus estudos principalmente para SQL, Java, fundamentos de arquitetura de sistemas, engenharia de requisitos, segurança da informação e boas práticas de desenvolvimento. Atuei no desenvolvimento de projetos que unem tecnologia e impacto social, como o DeslizApp, uma aplicação voltada para alertas e prevenção de deslizamentos em áreas de risco em Pernambuco, com foco em informação, visualização de dados e apoio à tomada de decisão. Também desenvolvi, com meus colegas, o projeto Terra Viva, que utiliza tecnologia para apoiar a rastreabilidade no uso de agrotóxicos, com atenção à transparência e à organização dos dados. Tenho experiência acadêmica e prática com desenvolvimento web, utilizando HTML, CSS e JavaScript, além de back-end com Java e Spring Boot, integração entre sistemas, versionamento com Git e organização de projetos. Também possuo noções de cloud e deploy, com uso de AWS e ambientes de hospedagem, onde estou dedicando meus estudos.
 
+<p align="left">
+<a href="https://github.com/Eduardanscmnt?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Eduardanscmnt?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Eduardanscmnt?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Eduardanscmnt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
