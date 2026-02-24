@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👩‍💻Maria Eduarda Nascimento
+**'Desenvolvedora Junior'**
 
-<!--
-**Eduardanscmnt/Eduardanscmnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me chamo Maria Eduarda, Sou desenvolvedora em formação, com foco em sistemas e dados. Tenho direcionado meus estudos principalmente para SQL, Java, fundamentos de arquitetura de sistemas, engenharia de requisitos, segurança da informação e boas práticas de desenvolvimento. Atuei no desenvolvimento de projetos que unem tecnologia e impacto social, como o DeslizApp, uma aplicação voltada para alertas e prevenção de deslizamentos em áreas de risco em Pernambuco, com foco em informação, visualização de dados e apoio à tomada de decisão. Também desenvolvi, com meus colegas, o projeto Terra Viva, que utiliza tecnologia para apoiar a rastreabilidade no uso de agrotóxicos, com atenção à transparência e à organização dos dados. Tenho experiência acadêmica e prática com desenvolvimento web, utilizando HTML, CSS e JavaScript, além de back-end com Java e Spring Boot, integração entre sistemas, versionamento com Git e organização de projetos. Também possuo noções de cloud e deploy, com uso de AWS e ambientes de hospedagem, onde estou dedicando meus estudos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+</p>
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardanscmnt&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+  
+  <img
+  alinhar="esquerda"
+  alt="Estátistica do GitHub"
+  altura="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardanscmnt&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+
+  />
+  </p>
+  
